@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/koneksi/DatabaseConnection.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/implement/TransaksiImplements.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/views/BarangView.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/views/PelangganView.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/implement/BarangImplements.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/implement/PelangganImplements.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/entity/Barang.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/interfaces/BarangInterface.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/views/HomeView.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/views/TransaksiView.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan/interfaces/PelangganInterface.java</file>
+            <file>file:/C:/Users/ASUS%20X455L/Documents/NetBeansProjects/penjualan_mvc/src/penjualan_mvc/Penjualan_mvc.java</file>
+        </group>
+    </open-files>
+</project-private>
